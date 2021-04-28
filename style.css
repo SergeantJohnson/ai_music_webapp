@@ -21,10 +21,12 @@ body{
 #speed{
     font-size: 23px;
     margin:15px;
+    background-size: cover;
 }
 
 .div_speed{
     float: left;
+    background-image: url('backright.jpg');
 }
 
 .div_volume_img{
@@ -35,6 +37,7 @@ body{
 #volume{
     font-size: 23px;
     margin:15px;
+    background-size: cover;
 }
 
 .div_volume{
